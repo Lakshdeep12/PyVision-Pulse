@@ -1,4 +1,4 @@
-# 🔬 FrameForensics — Video Capture & Degradation Analyzer
+# 🔬 Pyvision — Video Capture & Degradation Analyzer
 
 A production-grade Streamlit web application for **automated video capture, keyframe sampling, image comparison, and structural degradation analysis** powered by OpenCV and scikit-image.
 
